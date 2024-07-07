@@ -1,2 +1,5 @@
 # Project exclude paths
 /target/
+
+# Temp folder for temporary java test executions
+/src/main/java/org/temp
